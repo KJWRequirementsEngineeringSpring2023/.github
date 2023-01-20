@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to our Spring 2023 Requirements Engineering Project! The purpose of this project is to grow our business analysis skills and create a requirements list for a sponsor. 
+
 <!--
 
 **Here are some ideas to get you started:**
